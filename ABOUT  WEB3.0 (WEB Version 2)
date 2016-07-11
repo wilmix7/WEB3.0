@@ -1,0 +1,305 @@
+
+ABOUT  WEB3.0 (WEB Version 2)  for  cloud  Computing
+----------------------------------------------------
+
+All   Technologies      has  one   modules.
+
+But now  WEB3.0   has   10  modules.
+
+A)  WEB3.0V.1 (extension .WEB3.0)
+
+B)  WEB3.02 (extension .WEB3.0)
+
+c)  WEB3.03  used  for  Banking (extension .WEB3.0)
+
+d)  WEB3.04  used  for  Insurance (extension .WEB3.0)
+
+e)  WEB  Marketting  ->  WEB3.0  used   for   Marketting (extension .WEB3.0)
+
+f) WEB Bank  Security  -> used  for  Banking Security (.WEB extension or  .WEB  extension)
+
+g) WEB  WebService  ->  Used  for  WEB3.0   Webservice (.WEB extension or  .WEB  extension)
+
+h)  WEBWEB  It  also   Behaves   like  WEB  Technology  with  JML language.
+
+i) WEB3.0- JSLASH => to   create  any cloud  technology  as  according  to client  requirement.
+
+for eg) We can create  with in  6 hours  or  3 hours or  1 hours . Depending  on  it's  requirement.
+
+Advantages of  Version 2
+-------------------------
+
+It  contains  more  than   2000  Advantages 
+
+for  WEB3.0.  And  it  is   widely  used   in  more  cloud   applications.
+
+
+
+
+WEB3.0WebPages
+----------------
+
+WEB3.0Webpages  is mostly  used   in  software  development.
+
+It's   extension  is   .jwp.
+
+SYNTAX  for WEB3.0Webpages:
+----------------------------
+
+
+<JDWEB>
+<PACK>
+
+<%
+<!  WEb3.0   WEb  Logic  !>
+
+%>
+</JDWEB>
+
+
+
+
+Advantages:
+----------
+
+1) It  is  used  as    WEB3.0-AJAX.  
+
+2)  It  also   used   in Enterprise design  (BMP,CMP, Statelfull session bean,  stateless sesion bean),etc.
+
+3)  It  is   used  for  domains  like  Insurance, Banking,E-Learning,Used  with  Angular js,
+etc.
+
+4)  It  also   used  as  a  MVC  pattern
+
+5)  Easy  to  Learn  ,  Focus  , and  use  and  eradicates  lot  of  coding.
+
+6) SAVES   TIME  AND  COST.
+
+7)  It  is   an   Opensource  framework  but    wilmix   cat  server   is  not  opensourced.
+
+8)  It   saves  time   and  cost
+
+9) Use  of  web.xml  and  set  and  get    methods    are avoided.
+
+10)  Controller  ,Model  ,  View   are  User defined. 
+
+11)  You  can   pass   any  type   of   WEB3.0 collections like  AList,  HMap,etc
+
+   so    you  can   get  multiple   values   at    the  same   time   at  View3
+
+so  it   is   one   of    the  best  WEB3.0   framework.   
+
+12)  You  can   perform  many  number  of   Multiple   submits  on  the     same  page
+
+ie)   one   can    load   many   HTML   forms    in   the  same   page 
+
+by   calling    HTML.displayhtml  function..  is  one   of  the  best  advantage  than  any  other  framework....
+
+13)  This  Framework  also   behave   like  AJAX   and  redirects   to  the  same   page....
+
+14) It  also   used  as   a  common   software   for  software  developemnt.
+
+15)  It  also   used  as  a   Framework..
+
+
+
+Example:
+--------
+
+
+<JDWEB>
+<PACK>
+
+<%
+
+public  class main
+
+{
+
+public void  JWP-Main( )
+
+{
+
+
+
+HTML.displayhtml("ang1.html");
+
+
+HTML.displayhtml("bootstrap.htm");
+
+}
+
+} 
+
+
+%>
+</JDWEB>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WEB3.0 Insurance
+------------
+
+WEB3.0 Insurance   follows    Model  View pow 3  and  controller pattern.
+
+WEB3.0  Insurance  is  a    framework designed    for Insurance domain.
+
+WEB3.0 Insurance  focused  on cloud computing.
+
+WEB3.0  Insurance  syntax   are  very  standard syntax  for mobile  cloud computing.
+
+
+
+SYNTAX for WEB3.0Insurance (M(V^3) C)
+-----------------------------------
+
+
+Insurance main Program:
+----------------------
+
+<WEBINSURANCE>
+@WRemote
+
+
+<%
+
+
+public class  <class-name>
+{
+
+
+
+
+<MAIN>
+
+
+ <! Insurance main program !>
+ 
+</MAIN>
+
+
+} 
+
+%>
+
+
+</WEBINSURANCE>
+
+
+Insurance  Controller
+---------------------
+
+
+
+<WEBINSURANCE>
+@WRemote
+
+
+
+<%
+
+ 
+
+public  class  <insurancecontroller-name>
+
+{
+
+<CONTROLLER>
+
+<HMAP> s=<insurancemodelclassname>.Model (form);
+
+
+</CONTROLLER>
+
+}
+
+%>
+</WEBINSURANCE>
+
+
+
+
+INSURANCE  MODEL
+----------------
+
+
+<WEBINSURANCE>
+@WRemote
+
+<WEB3-WDBA>
+
+<%
+
+ 
+
+public  class  <insurance-modelname>  -->  <Serialize>
+
+{
+
+
+<DATABASE>
+
+<! DATABASE LOGIC CODE !>
+
+</DATABASE>
+
+
+
+
+<MODEL>
+
+<! MODEL LOGIC !>
+
+</MODEL>
+
+}
+
+%>
+</WEBINSURANCE>
+
+
+
+
+
+
+Insurance view
+---------------
+
+
+<WEBINSURANCE>
+@WRemote
+
+<WEB3-WDBA>
+
+<%
+
+ 
+
+public  class  <insurance- view -name>
+
+{
+
+<VIEW>
+
+<!  call  controller  and view  logic  comes  here !>
+
+</VIEW>
+
+}
+
+%>
+</WEBINSURANCE>
