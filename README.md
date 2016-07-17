@@ -3,9 +3,9 @@
 
 WEB3.0(WEB)  IS an interactive    ,  advanced    Technology  used   for  constructing   OS  , compilers and
 
-used   in  cloud  computing. And  WEB3.0(WEB)  is  the  World  NO:1  technology , it should
+used   in  cloud  computing. And  WEB3.0(WEB)  is  the  World  NO:2  technology , it should
 
-be  a  common   technology for all.
+be  a  common   technology for all  for  business side.
 
 
 
