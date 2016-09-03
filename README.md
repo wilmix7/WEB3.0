@@ -9,7 +9,7 @@ be  a  common   technology for all  for  business side.
 
 
 
-It  is   invented   by    wilmix  jemin  j    at    CDollar  and   JAS  Technology.
+It  is   invented   by    wilmix  jemin  j    at       JAS  Technology.
 
 
 
