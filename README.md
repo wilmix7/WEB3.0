@@ -9,7 +9,7 @@ be  a  common  P.L for all  for  business side.
 
 
 
-It  is   invented   by    wilmix  jemin  j    at       JAS.
+It  is   invented   by    wilmix  jemin  j    at       NJDOLLAR.
 
 
 
